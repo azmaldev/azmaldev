@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm azmal 👨‍💻
 
-<!--
-**azmal-dev/azmal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm a self-taught indie hacker, coder, and digital builder — focused on turning ideas into real tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- ⚡ Building small tools, fast projects, and digital products
+- 🔐 Learning authentication, APIs, and full-stack development
+- 🧭 Passionate about productivity, automation, and long-term growth
+
+---
+
+## 🚧 Projects I'm Building
+
+| Project         | Status     | Description                                      |
+|-----------------|------------|--------------------------------------------------|
+| **PassportKey** | 🛠 In Dev   | Passwordless login system with OTP & magic links |
+| **FitTrack**    | 🧠 Planned  | Simple fitness & habit tracker for consistency   |
+| **Web3Vault**   | ⚒ Exploring | Experimenting with basic Web3 + wallet auth      |
+
+---
+
+## 🛠 Tech Stack
+`HTML` `CSS` `JavaScript` `Git`  
+Learning: `Node.js`, `Express.js`, `MongoDB`, `API Auth`, `Web3`
+
+---
+
+## 🌐 Connect With Me
+- Twitter/X → [@azmal_me](https://x.com/azmal_me)
+- Instagram → [@azmal.me](https://instagram.com/azmal.me)
+- Email → `azmal.dev@proton.me`
+
+---
+
+> 🔥 Learning in public  
+> 🚀 Building in silence  
+> 📈 Focused on long-term results
+
+Thanks for stopping by!
