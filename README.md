@@ -31,7 +31,6 @@ Learning: `Node.js`, `Express.js`, `MongoDB`, `API Auth`, `Web3`
 ## 🌐 Connect With Me
 - Twitter/X → [@azmal_me](https://x.com/azmal_me)
 - Instagram → [@azmal.me](https://instagram.com/azmal.me)
-- Email → `azmal.dev@proton.me`
 
 ---
 
