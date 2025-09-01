@@ -1,41 +1,22 @@
-# Hey, I'm azmal 👨‍💻
+# Azmal - Website / App / SaaS Developer
 
-Welcome to my GitHub!  
-I'm a self-taught indie hacker, coder, and digital builder — focused on turning ideas into real tools.
+## About Me
+I am Azmal, a passionate Website, App, and SaaS Developer based in Bengaluru, Karnataka, India. Born on April 23, 2006, I have been documenting my entrepreneurial journey since joining the tech community in June 2025. With over 17+ AI tools built solo, I focus on both code and no-code solutions, sharing raw startup lessons and daily insights to inspire others.
 
----
+## Journey
+- **Entrepreneur**: Building and experimenting with innovative tech solutions.
+- **Developer**: Specializing in creating functional and scalable web and app projects.
+- **Content Creator**: Sharing my progress and learnings through code and no-code approaches.
 
-## 🧠 What I Do
-- ⚡ Building small tools, fast projects, and digital products
-- 🔐 Learning authentication, APIs, and full-stack development
-- 🧭 Passionate about productivity, automation, and long-term growth
+## Interests
+- Developing tools that solve real-world problems.
+- Exploring the balance between building in public and maintaining focus in silence.
+- Providing value through startup lessons and daily drops of knowledge.
 
----
+## Connect
+- Follow me on X: [@heyazmal](https://x.com/heyazmal)
+- Join the conversation on startup communities and #BuildInPublic initiatives.
 
-## 🚧 Projects I'm Building
-
-| Project         | Status     | Description                                      |
-|-----------------|------------|--------------------------------------------------|
-| **PassportKey** | 🛠 In Dev   | Passwordless login system with OTP & magic links |
-| **FitTrack**    | 🧠 Planned  | Simple fitness & habit tracker for consistency   |
-| **Web3Vault**   | ⚒ Exploring | Experimenting with basic Web3 + wallet auth      |
-
----
-
-## 🛠 Tech Stack
-`HTML` `CSS` `JavaScript` `Git`  
-Learning: `Node.js`, `Express.js`, `MongoDB`, `API Auth`, `Web3`
-
----
-
-## 🌐 Connect With Me
-- Twitter/X → [@azmal_me](https://x.com/azmal_me)
-- Instagram → [@azmal.me](https://instagram.com/azmal.me)
-
----
-
-> 🔥 Learning in public  
-> 🚀 Building in silence  
-> 📈 Focused on long-term results
-
-Thanks for stopping by!
+## Thoughts
+- "Everyone has ideas. Few dare to execute. Even fewer stay long enough to win."
+- "Building in public > Building in silence" - A perspective I often reflect on and invite discussion about.
