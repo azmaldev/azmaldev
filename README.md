@@ -51,3 +51,9 @@ Wraps DiceBear, UI Avatars, and RoboHash into one API with a React component inc
 
 MCP server that lets AI agents manage Cal.com — check availability, book, reschedule, and cancel meetings via natural language.
 Deployable on Railway or locally via `npx`; ships as an npm package with a stateless HTTP endpoint.
+
+---
+
+**6. [YT-Shorts-Scraper](https://github.com/azmaldev/yt-shorts-scraper)**
+
+REST API that extracts metadata, transcripts, and audio from any YouTube Shorts URL. Built with Python + FastAPI + yt-dlp — returns everything in a single `curl`.
