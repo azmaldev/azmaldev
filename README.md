@@ -15,45 +15,53 @@
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
+![Mastra](https://img.shields.io/badge/Mastra-7C3AED?style=flat-square&logo=mastra&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
-**1. [Clipscribe](https://github.com/azmaldev/ClipScribe)**
+**1. [Embby AI](https://github.com/azmaldev/Embby-AI)**
+
+Self-improving AI agent with real-time web access, file operations, skill learning, and memory.
+Built with TypeScript + Mastra + Groq + LibSQL + FastEmbed. Supports web search, weather lookups, calculator, file CRUD, self-learning skills via .md files, and Mastra Studio UI.
+
+---
+
+**2. [Clipscribe](https://github.com/azmaldev/ClipScribe)**
 
 REST API that takes any video URL and returns a full transcript.
 Built with Python + FastAPI + yt-dlp + Groq Whisper. Supports TikTok, YouTube Shorts, Twitter/X, Reddit, Instagram, and more.
 
 ---
 
-**2. [Pluck](https://github.com/azmaldev/Pluck)**
+**3. [Pluck](https://github.com/azmaldev/Pluck)**
 
 REST API that extracts emails, phones, socials, names, and metadata from any webpage via a single `curl`.
 Built with TypeScript + Hono + Cheerio. Supports batch mode, raw HTML input, and Docker deploy.
 
 ---
 
-**3. [ProxMCP](https://github.com/azmaldev/ProxMCP)**
+**4. [ProxMCP](https://github.com/azmaldev/ProxMCP)**
 
 An MCP proxy that sits in front of multiple upstream MCP servers and exposes them as one endpoint.
 Adds auth, rate limiting, tool filtering, and logging without touching the upstream servers.
 
 ---
 
-**4. [MugBear](https://github.com/azmaldev/mugbear)**
+**5. [MugBear](https://github.com/azmaldev/mugbear)**
 
 npm package that generates deterministic avatars from any name — same input always returns the same avatar.
 Wraps DiceBear, UI Avatars, and RoboHash into one API with a React component included.
 
 ---
 
-**5. [MCP-Server-Calcom](https://github.com/azmaldev/mcp-server-calcom)**
+**6. [MCP-Server-Calcom](https://github.com/azmaldev/mcp-server-calcom)**
 
 MCP server that lets AI agents manage Cal.com — check availability, book, reschedule, and cancel meetings via natural language.
 Deployable on Railway or locally via `npx`; ships as an npm package with a stateless HTTP endpoint.
 
 ---
 
-**6. [YT-Shorts-Scraper](https://github.com/azmaldev/yt-shorts-scraper)**
+**7. [YT-Shorts-Scraper](https://github.com/azmaldev/yt-shorts-scraper)**
 
 REST API that extracts metadata, transcripts, and audio from any YouTube Shorts URL. Built with Python + FastAPI + yt-dlp — returns everything in a single `curl`.
