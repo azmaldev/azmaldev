@@ -20,7 +20,7 @@
 
 ---
 
-**1. [Embby AI](https://github.com/azmaldev/Embby-AI)**
+**1. [OpenSeal](https://github.com/azmaldev/OpenSeal)**
 
 Self-improving AI agent with real-time web access, file operations, skill learning, and memory.
 Built with TypeScript + Mastra + Groq + LibSQL + FastEmbed. Supports web search, weather lookups, calculator, file CRUD, self-learning skills via .md files, and Mastra Studio UI.
